@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto30\Proyecto30\obj\Debug\Proyecto30.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto30\Proyecto30\obj\Debug\Proyecto30.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto30\Proyecto30\obj\Debug\Proyecto30.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto30\Proyecto30\bin\Debug\Proyecto30.exe.config
+D:\Proyectos\Proyecto30\Proyecto30\bin\Debug\Proyecto30.exe
+D:\Proyectos\Proyecto30\Proyecto30\bin\Debug\Proyecto30.pdb
+D:\Proyectos\Proyecto30\Proyecto30\obj\Debug\Proyecto30.exe
+D:\Proyectos\Proyecto30\Proyecto30\obj\Debug\Proyecto30.pdb

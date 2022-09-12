@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto40\Proyecto40\bin\Debug\Proyecto40.exe.config
+D:\Proyectos\Proyecto40\Proyecto40\bin\Debug\Proyecto40.exe
+D:\Proyectos\Proyecto40\Proyecto40\bin\Debug\Proyecto40.pdb
+D:\Proyectos\Proyecto40\Proyecto40\obj\Debug\Proyecto40.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto40\Proyecto40\obj\Debug\Proyecto40.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto40\Proyecto40\obj\Debug\Proyecto40.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto40\Proyecto40\obj\Debug\Proyecto40.exe
+D:\Proyectos\Proyecto40\Proyecto40\obj\Debug\Proyecto40.pdb

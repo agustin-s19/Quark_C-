@@ -1,0 +1,11 @@
+D:\Proyectos\Poyecto43\Poyecto43\bin\Debug\Poyecto43.exe.config
+D:\Proyectos\Poyecto43\Poyecto43\bin\Debug\Poyecto43.exe
+D:\Proyectos\Poyecto43\Poyecto43\bin\Debug\Poyecto43.pdb
+D:\Proyectos\Poyecto43\Poyecto43\obj\Debug\Poyecto43.csproj.AssemblyReference.cache
+D:\Proyectos\Poyecto43\Poyecto43\obj\Debug\Poyecto43.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Poyecto43\Poyecto43\obj\Debug\Poyecto43.Form1.resources
+D:\Proyectos\Poyecto43\Poyecto43\obj\Debug\Poyecto43.Properties.Resources.resources
+D:\Proyectos\Poyecto43\Poyecto43\obj\Debug\Poyecto43.csproj.GenerateResource.cache
+D:\Proyectos\Poyecto43\Poyecto43\obj\Debug\Poyecto43.csproj.CoreCompileInputs.cache
+D:\Proyectos\Poyecto43\Poyecto43\obj\Debug\Poyecto43.exe
+D:\Proyectos\Poyecto43\Poyecto43\obj\Debug\Poyecto43.pdb

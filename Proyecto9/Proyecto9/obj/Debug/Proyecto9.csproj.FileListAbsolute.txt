@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto9\Proyecto9\bin\Debug\Proyecto9.exe.config
+D:\Proyectos\Proyecto9\Proyecto9\bin\Debug\Proyecto9.exe
+D:\Proyectos\Proyecto9\Proyecto9\bin\Debug\Proyecto9.pdb
+D:\Proyectos\Proyecto9\Proyecto9\obj\Debug\Proyecto9.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto9\Proyecto9\obj\Debug\Proyecto9.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto9\Proyecto9\obj\Debug\Proyecto9.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto9\Proyecto9\obj\Debug\Proyecto9.exe
+D:\Proyectos\Proyecto9\Proyecto9\obj\Debug\Proyecto9.pdb

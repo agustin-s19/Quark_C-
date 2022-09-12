@@ -1,0 +1,8 @@
+D:\Proyectos\Aplicacion4\Aplicacion4\bin\Debug\Aplicacion4.exe.config
+D:\Proyectos\Aplicacion4\Aplicacion4\bin\Debug\Aplicacion4.exe
+D:\Proyectos\Aplicacion4\Aplicacion4\bin\Debug\Aplicacion4.pdb
+D:\Proyectos\Aplicacion4\Aplicacion4\obj\Debug\Aplicacion4.csproj.AssemblyReference.cache
+D:\Proyectos\Aplicacion4\Aplicacion4\obj\Debug\Aplicacion4.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Aplicacion4\Aplicacion4\obj\Debug\Aplicacion4.csproj.CoreCompileInputs.cache
+D:\Proyectos\Aplicacion4\Aplicacion4\obj\Debug\Aplicacion4.exe
+D:\Proyectos\Aplicacion4\Aplicacion4\obj\Debug\Aplicacion4.pdb

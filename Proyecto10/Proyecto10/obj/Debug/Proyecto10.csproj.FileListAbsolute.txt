@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto10\Proyecto10\bin\Debug\Proyecto10.exe.config
+D:\Proyectos\Proyecto10\Proyecto10\bin\Debug\Proyecto10.exe
+D:\Proyectos\Proyecto10\Proyecto10\bin\Debug\Proyecto10.pdb
+D:\Proyectos\Proyecto10\Proyecto10\obj\Debug\Proyecto10.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto10\Proyecto10\obj\Debug\Proyecto10.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto10\Proyecto10\obj\Debug\Proyecto10.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto10\Proyecto10\obj\Debug\Proyecto10.exe
+D:\Proyectos\Proyecto10\Proyecto10\obj\Debug\Proyecto10.pdb

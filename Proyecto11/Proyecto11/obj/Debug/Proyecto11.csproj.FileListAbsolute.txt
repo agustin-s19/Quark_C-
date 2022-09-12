@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto11\Proyecto11\bin\Debug\Proyecto11.exe.config
+D:\Proyectos\Proyecto11\Proyecto11\bin\Debug\Proyecto11.exe
+D:\Proyectos\Proyecto11\Proyecto11\bin\Debug\Proyecto11.pdb
+D:\Proyectos\Proyecto11\Proyecto11\obj\Debug\Proyecto11.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto11\Proyecto11\obj\Debug\Proyecto11.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto11\Proyecto11\obj\Debug\Proyecto11.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto11\Proyecto11\obj\Debug\Proyecto11.exe
+D:\Proyectos\Proyecto11\Proyecto11\obj\Debug\Proyecto11.pdb

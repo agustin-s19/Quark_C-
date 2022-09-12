@@ -1,0 +1,8 @@
+D:\Proyectos\EjercicioInterfaz2\EjercicioInterfaz2\bin\Debug\EjercicioInterfaz2.exe.config
+D:\Proyectos\EjercicioInterfaz2\EjercicioInterfaz2\bin\Debug\EjercicioInterfaz2.exe
+D:\Proyectos\EjercicioInterfaz2\EjercicioInterfaz2\bin\Debug\EjercicioInterfaz2.pdb
+D:\Proyectos\EjercicioInterfaz2\EjercicioInterfaz2\obj\Debug\EjercicioInterfaz2.csproj.AssemblyReference.cache
+D:\Proyectos\EjercicioInterfaz2\EjercicioInterfaz2\obj\Debug\EjercicioInterfaz2.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\EjercicioInterfaz2\EjercicioInterfaz2\obj\Debug\EjercicioInterfaz2.csproj.CoreCompileInputs.cache
+D:\Proyectos\EjercicioInterfaz2\EjercicioInterfaz2\obj\Debug\EjercicioInterfaz2.exe
+D:\Proyectos\EjercicioInterfaz2\EjercicioInterfaz2\obj\Debug\EjercicioInterfaz2.pdb

@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto34\Proyecto34\bin\Debug\Proyecto34.exe.config
+D:\Proyectos\Proyecto34\Proyecto34\bin\Debug\Proyecto34.exe
+D:\Proyectos\Proyecto34\Proyecto34\bin\Debug\Proyecto34.pdb
+D:\Proyectos\Proyecto34\Proyecto34\obj\Debug\Proyecto34.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto34\Proyecto34\obj\Debug\Proyecto34.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto34\Proyecto34\obj\Debug\Proyecto34.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto34\Proyecto34\obj\Debug\Proyecto34.exe
+D:\Proyectos\Proyecto34\Proyecto34\obj\Debug\Proyecto34.pdb

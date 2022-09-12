@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto3\Proyecto3\bin\Debug\Proyecto3.exe.config
+D:\Proyectos\Proyecto3\Proyecto3\bin\Debug\Proyecto3.exe
+D:\Proyectos\Proyecto3\Proyecto3\bin\Debug\Proyecto3.pdb
+D:\Proyectos\Proyecto3\Proyecto3\obj\Debug\Proyecto3.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto3\Proyecto3\obj\Debug\Proyecto3.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto3\Proyecto3\obj\Debug\Proyecto3.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto3\Proyecto3\obj\Debug\Proyecto3.exe
+D:\Proyectos\Proyecto3\Proyecto3\obj\Debug\Proyecto3.pdb

@@ -1,0 +1,11 @@
+D:\Proyectos\Proyecto41real\Proyecto41real\bin\Debug\Proyecto41real.exe.config
+D:\Proyectos\Proyecto41real\Proyecto41real\bin\Debug\Proyecto41real.exe
+D:\Proyectos\Proyecto41real\Proyecto41real\bin\Debug\Proyecto41real.pdb
+D:\Proyectos\Proyecto41real\Proyecto41real\obj\Debug\Proyecto41real.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto41real\Proyecto41real\obj\Debug\Proyecto41real.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto41real\Proyecto41real\obj\Debug\Proyecto41real.Form1.resources
+D:\Proyectos\Proyecto41real\Proyecto41real\obj\Debug\Proyecto41real.Properties.Resources.resources
+D:\Proyectos\Proyecto41real\Proyecto41real\obj\Debug\Proyecto41real.csproj.GenerateResource.cache
+D:\Proyectos\Proyecto41real\Proyecto41real\obj\Debug\Proyecto41real.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto41real\Proyecto41real\obj\Debug\Proyecto41real.exe
+D:\Proyectos\Proyecto41real\Proyecto41real\obj\Debug\Proyecto41real.pdb

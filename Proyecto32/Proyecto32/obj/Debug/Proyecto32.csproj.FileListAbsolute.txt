@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto32\Proyecto32\bin\Debug\Proyecto32.exe.config
+D:\Proyectos\Proyecto32\Proyecto32\bin\Debug\Proyecto32.exe
+D:\Proyectos\Proyecto32\Proyecto32\bin\Debug\Proyecto32.pdb
+D:\Proyectos\Proyecto32\Proyecto32\obj\Debug\Proyecto32.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto32\Proyecto32\obj\Debug\Proyecto32.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto32\Proyecto32\obj\Debug\Proyecto32.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto32\Proyecto32\obj\Debug\Proyecto32.exe
+D:\Proyectos\Proyecto32\Proyecto32\obj\Debug\Proyecto32.pdb

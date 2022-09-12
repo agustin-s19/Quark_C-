@@ -1,0 +1,10 @@
+D:\Proyectos\Proyecto12\Proyecto12\bin\Debug\Proyecto12.exe.config
+D:\Proyectos\Proyecto12\Proyecto12\bin\Debug\Proyecto12.exe
+D:\Proyectos\Proyecto12\Proyecto12\bin\Debug\Proyecto12.pdb
+D:\Proyectos\Proyecto12\Proyecto12\obj\Debug\Proyecto12.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto12\Proyecto12\obj\Debug\Proyecto12.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto12\Proyecto12\obj\Debug\Proyecto12.Form1.resources
+D:\Proyectos\Proyecto12\Proyecto12\obj\Debug\Proyecto12.csproj.GenerateResource.cache
+D:\Proyectos\Proyecto12\Proyecto12\obj\Debug\Proyecto12.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto12\Proyecto12\obj\Debug\Proyecto12.exe
+D:\Proyectos\Proyecto12\Proyecto12\obj\Debug\Proyecto12.pdb

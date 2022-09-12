@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto21\Proyecto21\bin\Debug\Proyecto21.exe.config
+D:\Proyectos\Proyecto21\Proyecto21\bin\Debug\Proyecto21.exe
+D:\Proyectos\Proyecto21\Proyecto21\bin\Debug\Proyecto21.pdb
+D:\Proyectos\Proyecto21\Proyecto21\obj\Debug\Proyecto21.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto21\Proyecto21\obj\Debug\Proyecto21.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto21\Proyecto21\obj\Debug\Proyecto21.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto21\Proyecto21\obj\Debug\Proyecto21.exe
+D:\Proyectos\Proyecto21\Proyecto21\obj\Debug\Proyecto21.pdb

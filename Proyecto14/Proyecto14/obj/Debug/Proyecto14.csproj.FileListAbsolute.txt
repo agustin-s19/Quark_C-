@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto14\Proyecto14\bin\Debug\Proyecto14.exe.config
+D:\Proyectos\Proyecto14\Proyecto14\bin\Debug\Proyecto14.exe
+D:\Proyectos\Proyecto14\Proyecto14\bin\Debug\Proyecto14.pdb
+D:\Proyectos\Proyecto14\Proyecto14\obj\Debug\Proyecto14.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto14\Proyecto14\obj\Debug\Proyecto14.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto14\Proyecto14\obj\Debug\Proyecto14.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto14\Proyecto14\obj\Debug\Proyecto14.exe
+D:\Proyectos\Proyecto14\Proyecto14\obj\Debug\Proyecto14.pdb

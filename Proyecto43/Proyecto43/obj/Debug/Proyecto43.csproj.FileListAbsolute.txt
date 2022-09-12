@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto43\Proyecto43\bin\Debug\Proyecto43.exe.config
+D:\Proyectos\Proyecto43\Proyecto43\bin\Debug\Proyecto43.exe
+D:\Proyectos\Proyecto43\Proyecto43\bin\Debug\Proyecto43.pdb
+D:\Proyectos\Proyecto43\Proyecto43\obj\Debug\Proyecto43.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto43\Proyecto43\obj\Debug\Proyecto43.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto43\Proyecto43\obj\Debug\Proyecto43.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto43\Proyecto43\obj\Debug\Proyecto43.exe
+D:\Proyectos\Proyecto43\Proyecto43\obj\Debug\Proyecto43.pdb

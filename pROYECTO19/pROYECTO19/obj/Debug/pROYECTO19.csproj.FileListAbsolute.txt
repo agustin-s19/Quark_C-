@@ -1,0 +1,8 @@
+D:\Proyectos\pROYECTO19\pROYECTO19\bin\Debug\pROYECTO19.exe.config
+D:\Proyectos\pROYECTO19\pROYECTO19\bin\Debug\pROYECTO19.exe
+D:\Proyectos\pROYECTO19\pROYECTO19\bin\Debug\pROYECTO19.pdb
+D:\Proyectos\pROYECTO19\pROYECTO19\obj\Debug\pROYECTO19.csproj.AssemblyReference.cache
+D:\Proyectos\pROYECTO19\pROYECTO19\obj\Debug\pROYECTO19.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\pROYECTO19\pROYECTO19\obj\Debug\pROYECTO19.csproj.CoreCompileInputs.cache
+D:\Proyectos\pROYECTO19\pROYECTO19\obj\Debug\pROYECTO19.exe
+D:\Proyectos\pROYECTO19\pROYECTO19\obj\Debug\pROYECTO19.pdb

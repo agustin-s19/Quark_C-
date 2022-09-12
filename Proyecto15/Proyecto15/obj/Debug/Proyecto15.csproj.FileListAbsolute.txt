@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto15\Proyecto15\bin\Debug\Proyecto15.exe.config
+D:\Proyectos\Proyecto15\Proyecto15\bin\Debug\Proyecto15.exe
+D:\Proyectos\Proyecto15\Proyecto15\bin\Debug\Proyecto15.pdb
+D:\Proyectos\Proyecto15\Proyecto15\obj\Debug\Proyecto15.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto15\Proyecto15\obj\Debug\Proyecto15.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto15\Proyecto15\obj\Debug\Proyecto15.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto15\Proyecto15\obj\Debug\Proyecto15.exe
+D:\Proyectos\Proyecto15\Proyecto15\obj\Debug\Proyecto15.pdb

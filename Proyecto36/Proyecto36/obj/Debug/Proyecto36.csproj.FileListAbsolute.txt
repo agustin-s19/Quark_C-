@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto36\Proyecto36\obj\Debug\Proyecto36.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto36\Proyecto36\obj\Debug\Proyecto36.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto36\Proyecto36\obj\Debug\Proyecto36.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto36\Proyecto36\bin\Debug\Proyecto36.exe.config
+D:\Proyectos\Proyecto36\Proyecto36\bin\Debug\Proyecto36.exe
+D:\Proyectos\Proyecto36\Proyecto36\bin\Debug\Proyecto36.pdb
+D:\Proyectos\Proyecto36\Proyecto36\obj\Debug\Proyecto36.exe
+D:\Proyectos\Proyecto36\Proyecto36\obj\Debug\Proyecto36.pdb

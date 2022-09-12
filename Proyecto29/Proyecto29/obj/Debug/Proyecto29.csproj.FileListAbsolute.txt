@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto29\Proyecto29\obj\Debug\Proyecto29.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto29\Proyecto29\obj\Debug\Proyecto29.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto29\Proyecto29\obj\Debug\Proyecto29.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto29\Proyecto29\bin\Debug\Proyecto29.exe.config
+D:\Proyectos\Proyecto29\Proyecto29\bin\Debug\Proyecto29.exe
+D:\Proyectos\Proyecto29\Proyecto29\bin\Debug\Proyecto29.pdb
+D:\Proyectos\Proyecto29\Proyecto29\obj\Debug\Proyecto29.exe
+D:\Proyectos\Proyecto29\Proyecto29\obj\Debug\Proyecto29.pdb

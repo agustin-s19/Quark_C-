@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto16\Proyecto16\bin\Debug\Proyecto16.exe.config
+D:\Proyectos\Proyecto16\Proyecto16\bin\Debug\Proyecto16.exe
+D:\Proyectos\Proyecto16\Proyecto16\bin\Debug\Proyecto16.pdb
+D:\Proyectos\Proyecto16\Proyecto16\obj\Debug\Proyecto16.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto16\Proyecto16\obj\Debug\Proyecto16.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto16\Proyecto16\obj\Debug\Proyecto16.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto16\Proyecto16\obj\Debug\Proyecto16.exe
+D:\Proyectos\Proyecto16\Proyecto16\obj\Debug\Proyecto16.pdb

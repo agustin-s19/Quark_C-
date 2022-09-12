@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto18\Proyecto18\bin\Debug\Proyecto18.exe.config
+D:\Proyectos\Proyecto18\Proyecto18\bin\Debug\Proyecto18.exe
+D:\Proyectos\Proyecto18\Proyecto18\bin\Debug\Proyecto18.pdb
+D:\Proyectos\Proyecto18\Proyecto18\obj\Debug\Proyecto18.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto18\Proyecto18\obj\Debug\Proyecto18.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto18\Proyecto18\obj\Debug\Proyecto18.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto18\Proyecto18\obj\Debug\Proyecto18.exe
+D:\Proyectos\Proyecto18\Proyecto18\obj\Debug\Proyecto18.pdb

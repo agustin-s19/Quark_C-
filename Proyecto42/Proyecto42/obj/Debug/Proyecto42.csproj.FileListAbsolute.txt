@@ -1,0 +1,11 @@
+D:\Proyectos\Proyecto42\Proyecto42\bin\Debug\Proyecto42.exe.config
+D:\Proyectos\Proyecto42\Proyecto42\bin\Debug\Proyecto42.exe
+D:\Proyectos\Proyecto42\Proyecto42\bin\Debug\Proyecto42.pdb
+D:\Proyectos\Proyecto42\Proyecto42\obj\Debug\Proyecto42.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto42\Proyecto42\obj\Debug\Proyecto42.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto42\Proyecto42\obj\Debug\Proyecto42.Form1.resources
+D:\Proyectos\Proyecto42\Proyecto42\obj\Debug\Proyecto42.Properties.Resources.resources
+D:\Proyectos\Proyecto42\Proyecto42\obj\Debug\Proyecto42.csproj.GenerateResource.cache
+D:\Proyectos\Proyecto42\Proyecto42\obj\Debug\Proyecto42.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto42\Proyecto42\obj\Debug\Proyecto42.exe
+D:\Proyectos\Proyecto42\Proyecto42\obj\Debug\Proyecto42.pdb

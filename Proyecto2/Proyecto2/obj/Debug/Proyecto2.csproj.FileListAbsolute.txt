@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+D:\Proyectos\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+D:\Proyectos\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+D:\Proyectos\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+D:\Proyectos\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb

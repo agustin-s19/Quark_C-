@@ -1,0 +1,8 @@
+D:\Proyectos\EjercicioInterface\EjercicioInterface\bin\Debug\EjercicioInterface.exe.config
+D:\Proyectos\EjercicioInterface\EjercicioInterface\bin\Debug\EjercicioInterface.exe
+D:\Proyectos\EjercicioInterface\EjercicioInterface\bin\Debug\EjercicioInterface.pdb
+D:\Proyectos\EjercicioInterface\EjercicioInterface\obj\Debug\EjercicioInterface.csproj.AssemblyReference.cache
+D:\Proyectos\EjercicioInterface\EjercicioInterface\obj\Debug\EjercicioInterface.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\EjercicioInterface\EjercicioInterface\obj\Debug\EjercicioInterface.csproj.CoreCompileInputs.cache
+D:\Proyectos\EjercicioInterface\EjercicioInterface\obj\Debug\EjercicioInterface.exe
+D:\Proyectos\EjercicioInterface\EjercicioInterface\obj\Debug\EjercicioInterface.pdb

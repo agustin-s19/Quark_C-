@@ -1,0 +1,10 @@
+D:\Proyectos\Proyecto41\Proyecto41\bin\Debug\Proyecto41.exe.config
+D:\Proyectos\Proyecto41\Proyecto41\bin\Debug\Proyecto41.exe
+D:\Proyectos\Proyecto41\Proyecto41\bin\Debug\Proyecto41.pdb
+D:\Proyectos\Proyecto41\Proyecto41\obj\Debug\Proyecto41.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto41\Proyecto41\obj\Debug\Proyecto41.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto41\Proyecto41\obj\Debug\Proyecto41.Form1.resources
+D:\Proyectos\Proyecto41\Proyecto41\obj\Debug\Proyecto41.csproj.GenerateResource.cache
+D:\Proyectos\Proyecto41\Proyecto41\obj\Debug\Proyecto41.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto41\Proyecto41\obj\Debug\Proyecto41.exe
+D:\Proyectos\Proyecto41\Proyecto41\obj\Debug\Proyecto41.pdb

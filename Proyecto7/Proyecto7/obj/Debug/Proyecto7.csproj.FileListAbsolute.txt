@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto7\Proyecto7\bin\Debug\Proyecto7.exe.config
+D:\Proyectos\Proyecto7\Proyecto7\bin\Debug\Proyecto7.exe
+D:\Proyectos\Proyecto7\Proyecto7\bin\Debug\Proyecto7.pdb
+D:\Proyectos\Proyecto7\Proyecto7\obj\Debug\Proyecto7.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto7\Proyecto7\obj\Debug\Proyecto7.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto7\Proyecto7\obj\Debug\Proyecto7.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto7\Proyecto7\obj\Debug\Proyecto7.exe
+D:\Proyectos\Proyecto7\Proyecto7\obj\Debug\Proyecto7.pdb

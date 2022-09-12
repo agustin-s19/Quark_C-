@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto23\Proyecto23\bin\Debug\Proyecto23.exe.config
+D:\Proyectos\Proyecto23\Proyecto23\bin\Debug\Proyecto23.exe
+D:\Proyectos\Proyecto23\Proyecto23\bin\Debug\Proyecto23.pdb
+D:\Proyectos\Proyecto23\Proyecto23\obj\Debug\Proyecto23.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto23\Proyecto23\obj\Debug\Proyecto23.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto23\Proyecto23\obj\Debug\Proyecto23.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto23\Proyecto23\obj\Debug\Proyecto23.exe
+D:\Proyectos\Proyecto23\Proyecto23\obj\Debug\Proyecto23.pdb

@@ -1,0 +1,8 @@
+D:\Proyectos\Proyecto20\Proyecto20\bin\Debug\Proyecto20.exe.config
+D:\Proyectos\Proyecto20\Proyecto20\bin\Debug\Proyecto20.exe
+D:\Proyectos\Proyecto20\Proyecto20\bin\Debug\Proyecto20.pdb
+D:\Proyectos\Proyecto20\Proyecto20\obj\Debug\Proyecto20.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto20\Proyecto20\obj\Debug\Proyecto20.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Proyecto20\Proyecto20\obj\Debug\Proyecto20.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto20\Proyecto20\obj\Debug\Proyecto20.exe
+D:\Proyectos\Proyecto20\Proyecto20\obj\Debug\Proyecto20.pdb

@@ -1,0 +1,8 @@
+D:\Proyectos\Electrodomesticos\Electrodomesticos\bin\Debug\Electrodomesticos.exe.config
+D:\Proyectos\Electrodomesticos\Electrodomesticos\bin\Debug\Electrodomesticos.exe
+D:\Proyectos\Electrodomesticos\Electrodomesticos\bin\Debug\Electrodomesticos.pdb
+D:\Proyectos\Electrodomesticos\Electrodomesticos\obj\Debug\Electrodomesticos.csproj.AssemblyReference.cache
+D:\Proyectos\Electrodomesticos\Electrodomesticos\obj\Debug\Electrodomesticos.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Electrodomesticos\Electrodomesticos\obj\Debug\Electrodomesticos.csproj.CoreCompileInputs.cache
+D:\Proyectos\Electrodomesticos\Electrodomesticos\obj\Debug\Electrodomesticos.exe
+D:\Proyectos\Electrodomesticos\Electrodomesticos\obj\Debug\Electrodomesticos.pdb

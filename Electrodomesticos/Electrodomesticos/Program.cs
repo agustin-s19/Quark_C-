@@ -10,7 +10,7 @@ namespace Electrodomesticos
     {
         static void Main(string[] args)
         {
-            Electrodomestico el = new Electrodomestico();
+            Electrodomestico el = new Electrodomestico(100,50);
             Console.ReadKey();
         }
     }

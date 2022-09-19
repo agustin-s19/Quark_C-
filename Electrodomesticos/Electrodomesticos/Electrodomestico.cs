@@ -6,14 +6,19 @@ using System.Threading.Tasks;
 
 namespace Electrodomesticos
 {
-    class Electrodomestico
+    abstract class Electrodomestico
     {
         private int precioBase;
         private string color;
         protected int peso;
         protected string ce;
+        protected int precioFinal;
+        public int Peso { get; } = 5;
+        public string Color { get; } = "blanco";
+        public int PrecioBase { get; } = 100;
+        public string Ce { get; } = "F";
+        int consumoE, precioPeso;
 
-     
         public Electrodomestico()
         {
             comprobarConsumoEnergetico(ce);
@@ -44,11 +49,7 @@ namespace Electrodomesticos
             PrecioFinal();
         }
 
-        public int Peso { get; } = 5;
-        public string Color { get;  } = "blanco";
-        public int PrecioBase { get; } = 100;
-        public string Ce { get;} = "F";
-        int consumoE;
+        
 
         private void comprobarConsumoEnergetico(string ce) {
             switch (ce)
@@ -73,40 +74,41 @@ namespace Electrodomesticos
                     break;
                 default:
                     consumoE = 10;
-                    break;   
+                    break;
             }
         }
         private void comprobarColor(string color)
         {
-            switch (color)
+            //List<string> list = new List<string>() { "blanco", "negro","azul","rojo","gris"};
+           
+            if (color != "blanco" || color != "negro" || color != "azul" || color != "rojo" || color != "gris")
             {
-                case "blanco":
-                    color = "blanco";
-                    break;
-                case "negro":
-                    color = "negro";
-                    break;
-                case "rojo":
-                    color = "rojo";
-                    break;
-                case "azul":
-                    color = "azul";
-                    break;
-                case "gris":
-                    color = "gris";
-                    break;
-                default:
-                    color = "blanco";
-                    break;
-
-            }
+                color = "blanco";
+            } 
+            
         }
 
-        public void PrecioFinal()
+        public virtual void PrecioFinal()
         {
-            int precioFinal;
+            
+            if (peso >= 1 && peso <= 19) {
+                precioPeso = 10;
+             }
+             else if(peso >= 20 && peso <= 49)
+            {
+                precioPeso = 50;
+            }
+             else if( peso >= 50 && peso <= 79)
+            {
+                precioPeso = 80;
+            }
+             else if(peso > 80) 
+            {
+                precioPeso = 100;
+            }
+            
 
-            precioFinal = precioBase + consumoE+ peso;
+            precioFinal = precioBase + consumoE+ precioPeso;
                 ; 
             Console.WriteLine($"El precio final del producto es de {precioFinal}");
         }

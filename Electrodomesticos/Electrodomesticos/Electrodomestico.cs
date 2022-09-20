@@ -6,24 +6,50 @@ using System.Threading.Tasks;
 
 namespace Electrodomesticos
 {
-    abstract class Electrodomestico
+    class Electrodomestico
     {
-        private int precioBase;
-        private string color;
-        protected int peso;
-        protected string ce;
-        protected int precioFinal;
-        public int Peso { get; } = 5;
-        public string Color { get; } = "blanco";
-        public int PrecioBase { get; } = 100;
-        public string Ce { get; } = "F";
-        int consumoE, precioPeso;
+        protected int precioBase = 100;
+        protected string color = "blanco";
+        protected int peso = 10;
+        protected string ce = "F";
+        public int precioFinal;
+        protected int consumoE, precioPeso;
+        public int PrecioBase
+        {
+            get => precioBase;
+            set
+            {
+                precioBase = value;
+            }
+        }
+        public string Color { 
+            get => color;
+            set 
+            {
+                 color = value;
+            }
+        }
+        public int Peso
+        {
+            get => peso;
+            set
+            {
+                peso = value;
+            }
+        }
+
+        public string Ce { get=>ce;
+            set {
+                ce = value;
+            } 
+        }
+       
 
         public Electrodomestico()
         {
             comprobarConsumoEnergetico(ce);
             comprobarColor(color);
-            PrecioFinal();
+            
         }
         public Electrodomestico(int precioBase, int peso) {
 
@@ -33,7 +59,7 @@ namespace Electrodomesticos
             ce = "F";
             comprobarConsumoEnergetico(ce);
             comprobarColor(color);
-            PrecioFinal();
+            CalcularPrecioFinal();
 
         }
 
@@ -46,12 +72,13 @@ namespace Electrodomesticos
             this.ce = ce;
             comprobarConsumoEnergetico(ce);
             comprobarColor(color);
-            PrecioFinal();
+            CalcularPrecioFinal();
         }
 
         
 
-        private void comprobarConsumoEnergetico(string ce) {
+        protected void comprobarConsumoEnergetico(string ce) {
+          
             switch (ce)
             {
                 case "A":
@@ -88,9 +115,9 @@ namespace Electrodomesticos
             
         }
 
-        public virtual void PrecioFinal()
+        public virtual void CalcularPrecioFinal()
         {
-            
+            comprobarConsumoEnergetico(ce);
             if (peso >= 1 && peso <= 19) {
                 precioPeso = 10;
              }
@@ -109,8 +136,8 @@ namespace Electrodomesticos
             
 
             precioFinal = precioBase + consumoE+ precioPeso;
-                ; 
-            Console.WriteLine($"El precio final del producto es de {precioFinal}");
+
+            
         }
 
         

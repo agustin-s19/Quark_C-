@@ -11,7 +11,7 @@ namespace Electrodomesticos
         private int carga;
         protected int precioCarga;
 
-        protected int Carga { get; set; } = 5;
+        public int Carga { get; } = 5;
 
         public Lavadora()
         {
@@ -23,19 +23,35 @@ namespace Electrodomesticos
         }
         public Lavadora(int carga, int precioBase, string color, int peso, string ce)
         {
-
+            this.precioBase = precioBase;
+            this.carga = carga;
+            base.Color = color;
+            base.Peso = peso;
+            base.ce = ce;
         }
 
-        public override void PrecioFinal()
+        public Lavadora(int carga)
         {
+            this.carga = carga;
+           
+        }
+
+        public override void CalcularPrecioFinal()
+        {
+            
+            base.CalcularPrecioFinal();
             if (carga >= 30)
             {
                 precioCarga = 50;
+                precioFinal = precioCarga + precioFinal;
             }
             else
             {
                 precioCarga = 0;
+                precioFinal = precioCarga + precioFinal;
             }
+
+            Console.WriteLine($"El precio final de la lavadora es de {precioFinal}");
         }
     }
 }
